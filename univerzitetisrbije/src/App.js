@@ -23,7 +23,7 @@ function App() {
     return (
       <div className="App">
         <header className="App-header">
-     <Universities />
+     <Universities universities={universities} />
         </header>
       </div>
     );

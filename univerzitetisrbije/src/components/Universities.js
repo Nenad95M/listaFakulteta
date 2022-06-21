@@ -1,9 +1,19 @@
-import React ,{useState} from "react";
+import React, { useState } from "react";
+import University from "./University";
 
-const Universities=()=>{
+const Universities = ({ universities }) => {
+    return (
+        <div >
+               
+            {
+                universities.map((uni)=>{
+                    return(
+                        <University key={uni.id} universities={uni}/>
+                    )
+                })
+            }      
 
-    return(
-<h1>PRAVNI FAKULTET KRAGUJEVAC</h1>
+        </div>
     )
 }
 export default Universities;
