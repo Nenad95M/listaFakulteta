@@ -19,24 +19,15 @@ function App() {
     getUiversitiesList();
   }, []);
   
-  if(!loading){
     return (
       <div className="App">
         <header className="App-header">
-     <Universities universities={universities} />
-        </header>
+          <h1>Univerziteti Srbije</h1>
+          {loading?<h1>LOADING...</h1>:<Universities universities={universities} />
+        }
+      </header>
       </div>
     );
-}
 
-else{
-  return(
-    <div className="App">
-        <header className="App-header">
-      <h1>LOADING...</h1> 
-        </header>
-      </div>
-    );
-}
 }
 export default App;
