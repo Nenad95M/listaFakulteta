@@ -1,26 +1,26 @@
 [
     {
-        'id':'1',
-        'name':'Beogradski Univerzitet',
-        'desc':'Univerzitet u Beogradu je najstarija i najveća institucija visokog obrazovanja u Srbiji. Nastavno osoblje broji preko 7.000 članova, a univerzitet pohađa 89.827 studenata na oko 320 programa osnovnih studija i 1.700 postdiplomaca.',
-        'img':'https: //upload.wikimedia.org/wikipedia/commons/1/1d/Belgrad_Universit%C3%A4t_Kolarac.JPG'
+        "id":"1",
+        "name":"Beogradski Univerzitet",
+        "desc":"Univerzitet u Beogradu je najstarija i najveća institucija visokog obrazovanja u Srbiji. Nastavno osoblje broji preko 7.000 članova, a univerzitet pohađa 89.827 studenata na oko 320 programa osnovnih studija i 1.700 postdiplomaca.",
+        "img":"https: //upload.wikimedia.org/wikipedia/commons/1/1d/Belgrad_Universit%C3%A4t_Kolarac.JPG"
     },
     {
-        'id':'2',
-        'name':'Univerzitet u Kragujevcu',
-        'desc':'Univerzitet u Kragujevcu osnovan je 21. maja 1976. godine u Kragujevcu. Njegovi koreni sežu do prve polovine 19. veka, kada je 1838. godine u ovom gradu osnovan „LICEJ“, kao prva najviša obrazovna institucija u Srbiji.',
-        'img':'https: //upload.wikimedia.org/wikipedia/commons/8/8f/FINK_ulaz.jpg'
+        "id":"2",
+        "name":"Univerzitet u Kragujevcu",
+        "desc":"Univerzitet u Kragujevcu osnovan je 21. maja 1976. godine u Kragujevcu. Njegovi koreni sežu do prve polovine 19. veka, kada je 1838. godine u ovom gradu osnovan „LICEJ“, kao prva najviša obrazovna institucija u Srbiji.",
+        "img":"https: //upload.wikimedia.org/wikipedia/commons/8/8f/FINK_ulaz.jpg"
     },
     {
-        'id':'3',
-        'name':'Univerzitet u Nišu',
-        'desc':'Univerzitet u Nišu osnovan je 15. juna 1965. godine od fakulteta koji su tada bili u sastavu Univerziteta u Beogradu. Univerzitet u Nišu u svom sastavu ima 14 fakulteta sa 1480 nastavnika i saradnika i 630 vannastavnih radnika, a na njemu studira 27.570 studenata.',
-        'img':'https: //upload.wikimedia.org/wikipedia/commons/4/4d/University_of_Nis.JPG'
+        "id":"3",
+        "name":"Univerzitet u Nišu",
+        "desc":"Univerzitet u Nišu osnovan je 15. juna 1965. godine od fakulteta koji su tada bili u sastavu Univerziteta u Beogradu. Univerzitet u Nišu u svom sastavu ima 14 fakulteta sa 1480 nastavnika i saradnika i 630 vannastavnih radnika, a na njemu studira 27.570 studenata.",
+        "img":"https: //upload.wikimedia.org/wikipedia/commons/4/4d/University_of_Nis.JPG"
     },
     {
-        'id':'4',
-        'name':'Univerzitet u Novom Sadu',
-        'desc':'Univerzitet u Novom Sadu je obrazovna, naučna i umetnička ustanova čiji je osnivač Republika Srbija. Univerzitet je smešten u Novom Sadu, drugom po veličini gradu u Srbiji. Osnovan je 28. juna 1960, sa više od 50.000 studenata i 5.000 zaposlenih na 14 fakulteta i tri instituta smeštenih u četiri istorijska univerzitetska grada',
-        'img':'https: //upload.wikimedia.org/wikipedia/commons/c/c7/Univerzitet_u_Novom_Sadu.jpg'
-    },
+        "id":"4",
+        "name":"Univerzitet u Novom Sadu",
+        "desc":"Univerzitet u Novom Sadu je obrazovna, naučna i umetnička ustanova čiji je osnivač Republika Srbija. Univerzitet je smešten u Novom Sadu, drugom po veličini gradu u Srbiji. Osnovan je 28. juna 1960, sa više od 50.000 studenata i 5.000 zaposlenih na 14 fakulteta i tri instituta smeštenih u četiri istorijska univerzitetska grada",
+        "img":"https: //upload.wikimedia.org/wikipedia/commons/c/c7/Univerzitet_u_Novom_Sadu.jpg"
+    }
 ]
